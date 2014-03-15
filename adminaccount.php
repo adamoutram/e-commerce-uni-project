@@ -13,6 +13,7 @@ else
 //If authenticated then display page contents
 ?>
 <!DOCTYPE html>
+<!--this document has also been edited and reuploaded to github-->
 <html lang="en">
 	<head>
 		<title>Specialist Cars</title>
